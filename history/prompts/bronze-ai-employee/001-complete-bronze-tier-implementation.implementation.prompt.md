@@ -7,7 +7,7 @@ surface: agent
 model: claude-sonnet-4-6
 feature: bronze-ai-employee
 branch: bronze-ai-employee
-user: Tahaimran56
+user: Aliladla
 command: implement bronze tier with constitution, spec, plan, tasks, and full implementation
 labels: ["bronze-tier", "ai-employee", "obsidian", "file-watcher", "agent-skills", "sdd"]
 links:
