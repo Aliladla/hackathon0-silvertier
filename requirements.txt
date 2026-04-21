@@ -1,0 +1,23 @@
+# Personal AI Employee - Python Dependencies
+
+# File system monitoring
+watchdog>=4.0.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Gmail API (Silver tier)
+google-api-python-client>=2.100.0
+google-auth-httplib2>=0.1.1
+google-auth-oauthlib>=1.1.0
+
+# WhatsApp Web automation (Silver tier)
+playwright>=1.40.0
+
+# Scheduling (Silver tier)
+schedule>=1.2.0
+
+# Standard library (included with Python 3.13+)
+# pathlib - built-in
+# logging - built-in
+# datetime - built-in
